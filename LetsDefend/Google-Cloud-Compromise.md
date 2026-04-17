@@ -44,6 +44,7 @@ On voit clairement la progression :
 
 storage.objects.list` → phase de reconnaissance
  `storage.objects.get` → exfiltration
+
  <img width="742" height="280" alt="image" src="https://github.com/user-attachments/assets/7552395d-0097-40dd-b166-a1764381b703" />
 On observe ici un appel API `storage.objects.get` permettant le téléchargement du fichier `secretcode.java` confirmant l’exfiltration de données.
 
