@@ -4,6 +4,9 @@ Le scénario en deux mots
 
 Je me suis penché sur un cas de compromission chez une startup.
 Un attaquant a réussi à récupérer une identité Google Cloud pour accéder à un bucket contenant du code sensible.
+<img width="871" height="667" alt="image" src="https://github.com/user-attachments/assets/a345c5f5-115a-4e89-a909-da93b501d39f" />
+
+
 
 
 
