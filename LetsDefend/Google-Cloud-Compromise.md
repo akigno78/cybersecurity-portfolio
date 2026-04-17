@@ -29,6 +29,8 @@ Ce qui m’a immédiatement paru suspect, c’est qu’il s’agit d’une IP de
 Les actions de l’attaquant
 L’attaquant a d’abord tenté d’activer des services (échec), puis il s’est concentré sur le bucket `importantbucket`.
 <img width="792" height="227" alt="image" src="https://github.com/user-attachments/assets/b4e83a87-4cc6-4b2b-a4ab-02eca6cee51f" />
+<img width="677" height="247" alt="image" src="https://github.com/user-attachments/assets/4c9b540d-491a-4ff7-86cd-64df02fe74c2" />
+
 
 
 À l’aide de l’outil `gsutil`, il a :
